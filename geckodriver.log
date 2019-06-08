@@ -1,0 +1,1440 @@
+1559949211600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.abS8TCQQTA47"
+1559949212590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559949212591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559949212591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559949214534	Marionette	INFO	Listening on port 60774
+1559949214558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559949216983	Marionette	INFO	Stopped listening on port 60774
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1559949420134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.fLjrx30a23Uj"
+1559949420779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559949420779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559949420779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559949422403	Marionette	INFO	Listening on port 60843
+1559949422415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559949424036	Marionette	INFO	Stopped listening on port 60843
+1559949493248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Bl58zBylBYiI"
+1559949493907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559949493907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559949493907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559949495557	Marionette	INFO	Listening on port 60898
+1559949495611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559950552384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.6q6vbpskhdg8"
+1559950553265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559950553266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559950553266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559950554991	Marionette	INFO	Listening on port 61093
+1559950555959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559951158463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.3BCVoL1hwsGg"
+1559951159381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559951159382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559951159382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559951161143	Marionette	INFO	Listening on port 61179
+1559951161220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559951164827	Marionette	INFO	Stopped listening on port 61179
+1559951277128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.LD2IZrfV5cos"
+1559951277839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559951277840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559951277840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559951279446	Marionette	INFO	Listening on port 61253
+1559951279501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559951347742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.SRO0oV6KGUG0"
+1559951348480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559951348480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559951348480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559951350211	Marionette	INFO	Listening on port 61319
+1559951350232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559951370691	Marionette	INFO	Stopped listening on port 60898
+1559951374169	Marionette	INFO	Stopped listening on port 61093
+1559951377007	Marionette	INFO	Stopped listening on port 61253
+1559951378754	Marionette	INFO	Stopped listening on port 61319
+1559951453547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.jxRMrYa6QrBl"
+1559951454198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559951454199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559951454199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559951455930	Marionette	INFO	Listening on port 61390
+1559951456022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559951887783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.5f5vl26wjSsc"
+1559951888447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559951888448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559951888448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559951890087	Marionette	INFO	Listening on port 61566
+1559951890136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559951918337	Marionette	INFO	Stopped listening on port 61566
+1559952225450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.uOEiOyjmn6Ri"
+1559952226226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952226227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952226227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952227859	Marionette	INFO	Listening on port 61662
+1559952227918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559952265595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Bvye1YGqu99d"
+1559952266340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952266340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952266340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952268071	Marionette	INFO	Listening on port 61727
+1559952268161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559952347780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.dVBjVWMqcPqY"
+1559952348528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952348528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952348528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952350285	Marionette	INFO	Listening on port 61798
+1559952350341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559952357016	Marionette	INFO	Stopped listening on port 61798
+1559952371562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.gNQRRokjWefX"
+1559952372262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952372263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952372263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952373921	Marionette	INFO	Listening on port 61867
+1559952374019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559952383456	Marionette	INFO	Stopped listening on port 61867
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559952554591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.M4pKBMtHqo8v"
+1559952555269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952555269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952555270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952556881	Marionette	INFO	Listening on port 61948
+1559952556979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559952560105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1559952582604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.lh24KhTXwJf2"
+1559952583379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952583379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952583379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952585139	Marionette	INFO	Listening on port 62014
+1559952585184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559952678979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.usFVD40tgV8E"
+1559952679842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559952679842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559952679842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559952681557	Marionette	INFO	Listening on port 62087
+1559952681649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559952862803	Marionette	INFO	Stopped listening on port 61390
+1559952864752	Marionette	INFO	Stopped listening on port 61662
+1559952866577	Marionette	INFO	Stopped listening on port 61727
+1559952868529	Marionette	INFO	Stopped listening on port 61948
+1559952873163	Marionette	INFO	Stopped listening on port 62014
+1559952875156	Marionette	INFO	Stopped listening on port 62087
+1559953096265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.nizydJnuXXcW"
+1559953097043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953097043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953097043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953098666	Marionette	INFO	Listening on port 62175
+1559953098740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953163756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.c3k92cY0YLnW"
+1559953164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953164395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953165998	Marionette	INFO	Listening on port 62247
+1559953166013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953207010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.dUcDnQGZ4Vrl"
+1559953207716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953207717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953207717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953209333	Marionette	INFO	Listening on port 62314
+1559953209377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953334974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Xbn9Snj7vZNg"
+1559953335642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953335642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953335642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953337283	Marionette	INFO	Listening on port 62383
+1559953337331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953520573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.n1DNttfmk9ge"
+1559953521337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953521338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953521338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953522984	Marionette	INFO	Listening on port 62452
+1559953523046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953534093	Marionette	INFO	Stopped listening on port 62452
+1559953553728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.LqEjV5VpwjUa"
+1559953554445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953554446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953554446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953556056	Marionette	INFO	Listening on port 62519
+1559953556096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953568697	Marionette	INFO	Stopped listening on port 62519
+1559953578815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.3VcOdE8jZeds"
+1559953579524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953579525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953579525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953581136	Marionette	INFO	Listening on port 62586
+1559953581180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953591186	Marionette	INFO	Stopped listening on port 62586
+1559953742711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.ax2vk2dmu3B3"
+1559953743388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953743389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953743389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953745004	Marionette	INFO	Listening on port 62655
+1559953745077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953759044	Marionette	INFO	Stopped listening on port 62655
+1559953869835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.3VEVg9HbUlPd"
+1559953870547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953870548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953870548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953872190	Marionette	INFO	Listening on port 62740
+1559953872210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953884094	Marionette	INFO	Stopped listening on port 62740
+1559953967570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.h6TASqcYdjIm"
+1559953968169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559953968170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559953968170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559953969774	Marionette	INFO	Listening on port 62812
+1559953969829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559953986866	Marionette	INFO	Stopped listening on port 62812
+1559954049297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.kdmLlsdvDp5E"
+1559954049917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559954049917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559954049917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559954051568	Marionette	INFO	Listening on port 62883
+1559954051639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559954070263	Marionette	INFO	Stopped listening on port 62883
+1559954144664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.OEyWnRBvNnck"
+1559954145284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559954145285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559954145285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559954146927	Marionette	INFO	Listening on port 62953
+1559954147018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559954385369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.to6Htpcn45e1"
+1559954385989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559954385989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559954385989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559954387683	Marionette	INFO	Listening on port 63033
+1559954387734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559954495050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.nQRtzeZu0KpC"
+1559954495927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559954495928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559954495928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559954497631	Marionette	INFO	Listening on port 63115
+1559954497704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559954511465	Marionette	INFO	Stopped listening on port 63115
+1559954884400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.e7fHTQ3OFZaM"
+1559954885191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559954885192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559954885192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559954886839	Marionette	INFO	Listening on port 63205
+1559954886866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559954905037	Marionette	INFO	Stopped listening on port 63205
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559955207134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.FAJmWO1n9JwH"
+1559955207878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559955207879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559955207879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559955209552	Marionette	INFO	Listening on port 63322
+1559955209620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559955442695	Marionette	INFO	Stopped listening on port 62247
+1559955446372	Marionette	INFO	Stopped listening on port 62314
+1559955448227	Marionette	INFO	Stopped listening on port 62383
+1559955450112	Marionette	INFO	Stopped listening on port 62953
+1559955451880	Marionette	INFO	Stopped listening on port 63033
+1559955454828	Marionette	INFO	Stopped listening on port 63322
+1559955995446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.sjRERVMeWBhE"
+1559955996270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559955996270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559955996270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559955997916	Marionette	INFO	Listening on port 63402
+1559955998026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559956131463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.y5hBZ2PfiMlG"
+1559956132132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956132133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956132134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956133821	Marionette	INFO	Listening on port 63477
+1559956133871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559956279169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.uU2QAdVgTEGL"
+1559956279836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956279836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956279836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956281492	Marionette	INFO	Listening on port 63553
+1559956281554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559956429836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.s1euE0t2sUqy"
+1559956430624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956430625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956430625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956432309	Marionette	INFO	Listening on port 63631
+1559956432318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559956575928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.SDQ9a8LnUdt7"
+1559956576734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956576734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956576734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956578453	Marionette	INFO	Listening on port 63710
+1559956578505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559956641087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.0uU4FPX0iG2Z"
+1559956641879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956641880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956641880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956643689	Marionette	INFO	Listening on port 63786
+1559956643783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559956811626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.xF7eC41dkf4M"
+1559956812528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956812529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956812529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956814198	Marionette	INFO	Listening on port 63866
+1559956815198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559956988350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.abrNptS70JKc"
+1559956989291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559956989292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559956989292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559956991024	Marionette	INFO	Listening on port 63957
+1559956991069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559957089822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.CJFqBJYbIi40"
+1559957090692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559957090694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559957090694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559957092304	Marionette	INFO	Listening on port 64038
+1559957092335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559957133390	Marionette	INFO	Stopped listening on port 64038
+1559957142736	Marionette	INFO	Stopped listening on port 63402
+1559957144815	Marionette	INFO	Stopped listening on port 62175
+1559957146418	Marionette	INFO	Stopped listening on port 63477
+1559957148299	Marionette	INFO	Stopped listening on port 63553
+1559957149884	Marionette	INFO	Stopped listening on port 63631
+1559957151581	Marionette	INFO	Stopped listening on port 63710
+1559957153462	Marionette	INFO	Stopped listening on port 63786
+1559957155309	Marionette	INFO	Stopped listening on port 63866
+1559957156465	Marionette	INFO	Stopped listening on port 63957
+1559957699163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.qTvN2Nb8xvXu"
+1559957699910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559957699911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559957699911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559957701656	Marionette	INFO	Listening on port 64210
+1559957701747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559957717415	Marionette	INFO	Stopped listening on port 64210
+1559957839088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.g343L7jVQOav"
+1559957839853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559957839853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559957839853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559957841547	Marionette	INFO	Listening on port 64284
+1559957841584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559957919033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.IdWmiXCOE72S"
+1559957919712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559957919713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559957919713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559957921417	Marionette	INFO	Listening on port 64360
+1559957921512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559957949613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.rYVrfsNsg1PD"
+1559957950348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559957950348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559957950348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559957952064	Marionette	INFO	Listening on port 64434
+1559957952111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559958110000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.bmUpwQgp4KLQ"
+1559958110904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559958110905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559958110905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559958112645	Marionette	INFO	Listening on port 64575
+1559958112715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559958128394	Marionette	INFO	Stopped listening on port 64575
+1559958144213	Marionette	INFO	Stopped listening on port 64434
+1559958145796	Marionette	INFO	Stopped listening on port 64360
+1559958149509	Marionette	INFO	Stopped listening on port 64284
+1559958175405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.rZSRFMZbQpHA"
+1559958176093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559958176094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559958176094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559958177708	Marionette	INFO	Listening on port 64654
+1559958177756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559958198171	Marionette	INFO	Stopped listening on port 64654
+1559958219454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.hgy5awZfQjBs"
+1559958220039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559958220039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559958220040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559958221636	Marionette	INFO	Listening on port 64728
+1559958221691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559958243864	Marionette	INFO	Stopped listening on port 64728
+1559959133992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.m7eLN6rAfs4g"
+1559959134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559959134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559959134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559959136256	Marionette	INFO	Listening on port 64923
+1559959136350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559959159974	Marionette	INFO	Stopped listening on port 64923
+1559959873323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.vRgTWMo0wLJt"
+1559959873986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559959873987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559959873987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559959875719	Marionette	INFO	Listening on port 65067
+1559959875815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559959955528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.udxpGdhepFMr"
+1559959956170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559959956170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559959956171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559959957941	Marionette	INFO	Listening on port 65115
+1559959958004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559959975438	Marionette	INFO	Stopped listening on port 65115
+1559960066143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.iU4qCCZhjbuh"
+1559960066743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559960066743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559960066743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559960068316	Marionette	INFO	Listening on port 65190
+1559960068406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559960173212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.HqhXC4VXkNhF"
+1559960173807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559960173808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559960173808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559960175404	Marionette	INFO	Listening on port 65264
+1559960175461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559962930032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.lqYGocr3pZZk"
+1559962930659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559962930660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559962930661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559962932296	Marionette	INFO	Listening on port 65364
+1559962932395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559962995238	Marionette	INFO	Stopped listening on port 65190
+1559962996575	Marionette	INFO	Stopped listening on port 65264
+1559962997964	Marionette	INFO	Stopped listening on port 65364
+1559963186719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.59FJz95IZipY"
+1559963187295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963187296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963187296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963188900	Marionette	INFO	Listening on port 65507
+1559963188973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559963308693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.HvArdtqdASw5"
+1559963309347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963309347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963309347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963310967	Marionette	INFO	Listening on port 49253
+1559963311033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559963336039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Cwy6KSoVnh5n"
+1559963336631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963336631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963336631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963338253	Marionette	INFO	Listening on port 49326
+1559963338311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559963718980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.E840CuPkRWDW"
+1559963719658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963719659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963719659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963721313	Marionette	INFO	Listening on port 49419
+1559963721354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559963909590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.6xIEyLsU279q"
+1559963910214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963910215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963910215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963911840	Marionette	INFO	Listening on port 49497
+1559963911849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559963959743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.RLaeSPY2nsN6"
+1559963960482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559963960483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559963960483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559963962108	Marionette	INFO	Listening on port 49567
+1559963962178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559964106949	Marionette	INFO	Stopped listening on port 65507
+1559964110689	Marionette	INFO	Stopped listening on port 49253
+1559964112470	Marionette	INFO	Stopped listening on port 49326
+1559964114369	Marionette	INFO	Stopped listening on port 49419
+1559964116362	Marionette	INFO	Stopped listening on port 49497
+1559964118759	Marionette	INFO	Stopped listening on port 49567
+1559964281925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.4BLqLnTfRNIQ"
+1559964282716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559964282717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559964282717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559964284614	Marionette	INFO	Listening on port 49785
+1559964284692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559964339951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.mniWlPkbW6bo"
+1559964340676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559964340676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559964340677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559964342439	Marionette	INFO	Listening on port 49866
+1559964342507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559964979849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.MHLOwGQI4X8o"
+1559964980545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559964980545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559964980545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559964982164	Marionette	INFO	Listening on port 50101
+1559964982211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559965084135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.K3jm1FGzePBZ"
+1559965084788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965084789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965084789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965086479	Marionette	INFO	Listening on port 50171
+1559965086486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559965114415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.R42Qu2jVwMvx"
+1559965115159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965115168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965115168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965116977	Marionette	INFO	Listening on port 50239
+1559965117079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1559965142326	Marionette	INFO	Stopped listening on port 49785
+1559965143735	Marionette	INFO	Stopped listening on port 49866
+1559965145038	Marionette	INFO	Stopped listening on port 50101
+1559965146261	Marionette	INFO	Stopped listening on port 50171
+1559965147563	Marionette	INFO	Stopped listening on port 50239
+1559965260352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.n0rClepE5ks9"
+1559965261055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965261056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965261057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965262659	Marionette	INFO	Listening on port 50319
+1559965262707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559965346757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.EaUWPKBxfp59"
+1559965347401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965347401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965347401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965348996	Marionette	INFO	Listening on port 50394
+1559965349050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559965508355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.YXu9my51gJqU"
+1559965508995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965508995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965508995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965510826	Marionette	INFO	Listening on port 50463
+1559965510919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559965937376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Xdp3cxsznKcL"
+1559965938037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559965938038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559965938038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559965939631	Marionette	INFO	Listening on port 50558
+1559965939733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559966013840	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.2YoKxbsm0h81"
+1559966014508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966014509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966014509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966016132	Marionette	INFO	Listening on port 50630
+1559966016196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559966151084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Pl1vh4i6DhrC"
+1559966151866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966151867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966151867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966153507	Marionette	INFO	Listening on port 50703
+1559966153547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559966340648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.NhSSoozVXUpV"
+1559966341400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966341400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966341400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966342994	Marionette	INFO	Listening on port 50784
+1559966343040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559966404990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.DSodxv0R9xVV"
+1559966405790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966405790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966405790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966407415	Marionette	INFO	Listening on port 50857
+1559966407438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559966543579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.4V5FI0hLM9li"
+1559966544350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966544351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966544351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966546059	Marionette	INFO	Listening on port 50942
+1559966546129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559966648463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.7TAf76G8QlSe"
+1559966649307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966649307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966649307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966651033	Marionette	INFO	Listening on port 51023
+1559966651137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559966784724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.eFs1yuPHH2MK"
+1559966785613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966785616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966785617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966787351	Marionette	INFO	Listening on port 51098
+1559966787399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1559966802263	Marionette	INFO	Stopped listening on port 50319
+1559966804077	Marionette	INFO	Stopped listening on port 50394
+1559966807248	Marionette	INFO	Stopped listening on port 50463
+1559966809305	Marionette	INFO	Stopped listening on port 50558
+1559966811693	Marionette	INFO	Stopped listening on port 50630
+1559966813813	Marionette	INFO	Stopped listening on port 50703
+1559966815569	Marionette	INFO	Stopped listening on port 50784
+1559966817191	Marionette	INFO	Stopped listening on port 50857
+1559966818997	Marionette	INFO	Stopped listening on port 50942
+1559966821065	Marionette	INFO	Stopped listening on port 51023
+1559966925173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.63rXdZ0mVGO1"
+1559966925885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559966925886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559966925886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559966927471	Marionette	INFO	Listening on port 51177
+1559966927532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1559966980272	Marionette	INFO	Stopped listening on port 51098
+1559966982013	Marionette	INFO	Stopped listening on port 51177
+1559966984445	Marionette	INFO	Stopped listening on port 65067
+1560000879209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.rQJWG1PTRYXB"
+1560000880124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560000880125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560000880125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560000881972	Marionette	INFO	Listening on port 51763
+1560000882064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560001407428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.30xliFMhLuL1"
+1560001408075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560001408075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560001408076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560001409843	Marionette	INFO	Listening on port 51896
+1560001409909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560001508626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.EMZiqxzUa744"
+1560001509294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560001509295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560001509295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560001510866	Marionette	INFO	Listening on port 51966
+1560001510901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560001604280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.J31uYpbhZm2W"
+1560001604944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560001604945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560001604945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560001606602	Marionette	INFO	Listening on port 52065
+1560001606643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560001614138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560001750904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.QAHMUnNuBfMO"
+1560001751541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560001751542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560001751542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560001753160	Marionette	INFO	Listening on port 52145
+1560001753252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1560001798609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.iAbja1WA544u"
+1560001799259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560001799259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560001799260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560001800998	Marionette	INFO	Listening on port 52216
+1560001801068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560001806256	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560002227926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.kjLLAIjg6O7m"
+1560002228554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560002228555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560002228555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560002230154	Marionette	INFO	Listening on port 52313
+1560002230194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560002313595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.YFKLBmqDr1Wf"
+1560002314232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560002314232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560002314232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560002315911	Marionette	INFO	Listening on port 52404
+1560002315961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560002384852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.vcAZeLeJ1d5C"
+1560002385777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560002385778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560002385778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560002387855	Marionette	INFO	Listening on port 52490
+1560002387932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1560002411718	Marionette	INFO	Stopped listening on port 51896
+1560002415066	Marionette	INFO	Stopped listening on port 51966
+1560002416768	Marionette	INFO	Stopped listening on port 52065
+1560002418435	Marionette	INFO	Stopped listening on port 52145
+1560002420725	Marionette	INFO	Stopped listening on port 52216
+1560002422940	Marionette	INFO	Stopped listening on port 52313
+1560002424796	Marionette	INFO	Stopped listening on port 52404
+1560002426825	Marionette	INFO	Stopped listening on port 52490
+1560002428897	Marionette	INFO	Stopped listening on port 51763
+1560002462788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.U2DP61MO12Mt"
+1560002463544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560002463545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560002463545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560002465287	Marionette	INFO	Listening on port 52577
+1560002465345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560007271309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.DaZZR7s1JjAa"
+1560007271977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560007271977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560007271977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560007273579	Marionette	INFO	Listening on port 52752
+1560007273676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560007385137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.NqZtfLQuZH0H"
+1560007385743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560007385744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560007385744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560007387360	Marionette	INFO	Listening on port 52823
+1560007387398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560007488776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.H28fVMrUsDaO"
+1560007489422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560007489422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560007489423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560007491060	Marionette	INFO	Listening on port 52897
+1560007491154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+1560007560839	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.oQo1kQsYWMcR"
+1560007561452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560007561453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560007561453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560007563124	Marionette	INFO	Listening on port 52968
+1560007563201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560007709069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.fRSR1XCkBJh7"
+1560007709658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560007709659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560007709659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560007711238	Marionette	INFO	Listening on port 53046
+1560007711307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560007807323	Marionette	INFO	Stopped listening on port 52752
+1560007810863	Marionette	INFO	Stopped listening on port 52823
+1560007812756	Marionette	INFO	Stopped listening on port 52897
+1560007814401	Marionette	INFO	Stopped listening on port 52968
+1560007815813	Marionette	INFO	Stopped listening on port 53046
+1560007817346	Marionette	INFO	Stopped listening on port 52577
+1560008043850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.7Zkeyg7y7qp6"
+1560008044369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560008044369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560008044369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560008045968	Marionette	INFO	Listening on port 53123
+1560008045998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560008196930	Marionette	INFO	Stopped listening on port 53123
+1560011053537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.UKNekBvwbdz3"
+1560011054077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560011054077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560011054077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560011055629	Marionette	INFO	Listening on port 53267
+1560011055697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560011649235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.Cq4KBuutkLEU"
+1560011649763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560011649764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560011649764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560011651345	Marionette	INFO	Listening on port 53347
+1560011651393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560012009590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.sBu53pzRDG2N"
+1560012010196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560012010196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560012010196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560012011756	Marionette	INFO	Listening on port 53445
+1560012011841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1560013407455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.QzklzFo9mzRx"
+1560013407995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560013407995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560013407996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560013409583	Marionette	INFO	Listening on port 53568
+1560013409631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+1560013443276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5k/6cvj9rxs14ngkbvvxw5p33ph0000gn/T/rust_mozprofile.OYuFXlmplVaG"
+1560013443901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560013443901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560013443901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560013445490	Marionette	INFO	Listening on port 53641
+1560013445530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript warning: https://d17ol771963kd3.cloudfront.net/assets/application-0055fbbf8e75b04f0fcc7e6c82be668b.js, line 18645: unreachable code after return statement
+JavaScript error: https://supreme-images.s3.amazonaws.com/us-zipcodes/0247.js?callback=w, line 1: TypeError: w is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
