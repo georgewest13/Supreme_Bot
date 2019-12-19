@@ -1,0 +1,50 @@
+body {
+	background-color: #F0EAD6;
+	font-family: Georgia;
+}
+
+.info {
+	font-style: italic;
+	font-size: 11px;
+}
+
+h1 {
+	text-decoration: underline; 
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("../sup_wall.png");
+}
+
+#items {
+	width:  16%;
+	font-size: 14px;
+	font-family: Georgia;
+}
+
+.column {
+	float: left;
+	width: 50%;
+
+}
+
+.column1 {
+	text-align: center;
+}
+
+#reqs {
+	text-align: center;
+}
+
+#bullets {
+	align-content: center;
+	list-style-position: inside;
+	margin-left: 15%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}

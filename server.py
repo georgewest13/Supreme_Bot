@@ -1,3 +1,6 @@
+# Supreme_Bot-v1.1
+# 12.19.19
+
 from flask import Flask, render_template, request, url_for
 import sup_bot
 app = Flask(__name__)

@@ -1,5 +1,5 @@
-# Supreme_Bot-v1.0
-# 6.8.19
+# Supreme_Bot-v1.1
+# 12.19.19
 
 # - Automates adding items from the shop to cart and filling out payment info
 # - Requires human intervention to complete CAPTCHA
@@ -167,7 +167,7 @@ def get_clothes(clothes):
         items = ["sweatshirts", "bags", "accessories", "hats", "shirts"]
     else:
         items = clothes
-    for item in ["bags"]:
+    for item in items:
         print("Purchasing %s" % item)
         open_url(shop_url)
         if not add_item_from_shop(item, False):
