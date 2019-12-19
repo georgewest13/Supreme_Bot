@@ -18,6 +18,7 @@ from time import sleep
 shop_url     = "https://www.supremenewyork.com/shop"
 checkout_url = "https://www.supremenewyork.com/checkout"
 driver       = webdriver.Firefox()
+SLEEP        = .75
 
 class Billing:
     name  = "Foo Bar" 
@@ -38,38 +39,40 @@ class CC:
 bill_info = Billing()
 cc_info   = CC()
 
-def open_shop():
-    driver.get(shop_url)
-    sleep(1)
-
-def open_checkout():
-    driver.get(checkout_url)
-    sleep(.5)
+# checkout only works if cart is non-empty
+def open_url(url):
+    driver.get(url)
+    sleep(SLEEP)
 
 def add_with_style_and_sizes(styles):
-    for i in range(len(styles)):
-        styles[i].click()
+    for style in styles:
+        style.click()
         select,sizes = get_sizes()
-        for j in range(len(sizes)):
-            select.select_by_value(sizes[j].get_attribute("value"))
-            bought = add_item()
-            if bought:
-                return
+        for size in sizes:
+            select.select_by_value(size.get_attribute("value"))
+            if add_item():
+                return True
 
+    return False
+
+# TODO: multiple buttons for one item
 def add_with_style(styles):
-    for i in range(len(styles)):
-        styles[i].click()
-        bought = add_item()
-        if bought:
-            return
+    for style in styles:
+        style.click()
+        if add_item():
+            return True
+
+    return False
 
 def add_with_size(select, sizes):
-    for j in range(len(sizes)):
-        select.select_by_value(sizes[j].get_attribute("value"))
-        bought = add_item()
-        if bought:
-            return
+    for size in sizes:
+        select.select_by_value(size.get_attribute("value"))
+        if add_item():
+            return True
 
+    return False
+
+# TODO: Won't actually add to cart ... ever
 def add_item():
     try:
         add_button = driver.find_element_by_name("commit")
@@ -92,10 +95,12 @@ def get_sizes():
     return select,options
 
         
-def add_item_from_shop(item):
-    item_elem = driver.find_element_by_class_name(item)
-    item_elem.click()
-    sleep(.5)
+def add_item_from_shop(item, loaded):
+    # go to page of item if not loaded
+    if not loaded:
+        item_elem = driver.find_element_by_class_name(item)
+        item_elem.click()
+        sleep(SLEEP)
 
     try:
         styles = driver.find_element_by_class_name("styles ")
@@ -113,13 +118,13 @@ def add_item_from_shop(item):
         options = None
 
     if color_ways == None and options == None:
-        add_item()
+        return add_item()
     elif color_ways == None:
-        add_with_size(select, options)
+        return add_with_size(select, options)
     elif options == None:
-        add_with_style(color_ways)
+        return add_with_style(color_ways)
     else:
-        add_with_style_and_sizes(color_ways)
+        return add_with_style_and_sizes(color_ways)
     
 def fill_billing():
     name = driver.find_element_by_id("order_billing_name")
@@ -154,20 +159,34 @@ def fill_cc():
 # remembers info for next time and accepts Terms and Condos.
 def fill_checkbox():
     boxes = driver.find_elements_by_class_name("iCheck-helper")
-    for i in range(0,len(boxes)):
-        boxes[i].click()
+    for box in boxes:
+        box.click()
 
-def main():
-    items = ["sweatshirts", "bags", "accessories", "hats", "shirts"]
-    for item in items:
-        print "Purchasing {}".format( item )
-        open_shop()
-        add_item_from_shop(item)
-    open_checkout()
-    fill_billing()
-    fill_cc()
-    fill_checkbox()
-    add_item() # process payment - open CAPTCHA
+def get_clothes(clothes):
+    if clothes == None or clothes == []:
+        items = ["sweatshirts", "bags", "accessories", "hats", "shirts"]
+    else:
+        items = clothes
+    for item in ["bags"]:
+        print("Purchasing %s" % item)
+        open_url(shop_url)
+        if not add_item_from_shop(item, False):
+            try:
+                next = driver.find_element_by_class_name("next")
+                next.click()
+                sleep(SLEEP)
+                add_item_from_shop(item, True)
+            except:
+                print("no next")
+    open_url(checkout_url)
 
-if __name__ == "__main__":
-    main()
+    ## Below only works once at checkout page
+    if driver.current_url == checkout_url:
+        fill_billing()
+        fill_cc()
+        fill_checkbox()
+        add_item() # process payment - open CAPTCHA
+
+if __name__ == '__main__':
+  get_clothes(None)
+

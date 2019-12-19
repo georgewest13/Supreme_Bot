@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+
+<head>
+	<title>Supre Bot</title> 
+    <meta charset=utf-8> 
+</head>
+<body>
+    <h1>Supre Bot</h1>
+    <p> Select your items: </p>
+    <form method="POST" action="{{ url_for('script') }}"> 
+        <select multiple id="items" name="items">         
+	        <option value="t-shirts">tees</option>
+	        <option value="shirts">shirts</option>
+	        <option value="tops/sweaters">sweaters</option>
+	        <option value="sweatshirts">sweatshirts</option>       
+	        <option value="jackets">jackets</option>
+	        <option value="pants">pants</option>
+	        <option value="hats">hats</option>
+	        <option value="bags">bags</option>       
+	        <option value="skate">skate</option>
+	        <option value="accessories">accessories</option>       
+		</select>
+    	<button type="submit"> <a>Get clothes</a>
+    	</button>
+    </form>
+    <p> May take a second after submitting... if not in Firefox, go to it and wait for CAPTCHA </p>
+</body>
