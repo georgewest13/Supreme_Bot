@@ -2,7 +2,8 @@
 # 12.19.19
 
 from flask import Flask, render_template, request, url_for
-import sup_bot
+from sup_bot import get_clothes
+import threading, webbrowser
 app = Flask(__name__)
 
 @app.route('/')
@@ -13,8 +14,11 @@ def index():
 def script():
   items = request.form.getlist('items')
   print(items)
-  sup_bot.get_clothes(items)
-  return '<h1>Secured the bag</h1>'
+  get_clothes(items)
+  return '<h1>Secure the bag in Firefox</h1>'
 
 if __name__ == '__main__':
-  app.run(debug=True)
+  port = 5000 
+  url  = "http://127.0.0.1:{0}".format(port)
+  threading.Timer(1.25, lambda: webbrowser.open(url)).start()
+  app.run(debug=False)
