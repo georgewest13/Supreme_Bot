@@ -14,7 +14,7 @@ def script():
   items = request.form.getlist('items')
   print(items)
   sup_bot.get_clothes(items)
-  return 'Secured the bag'
+  return '<h1>Secured the bag</h1>'
 
 if __name__ == '__main__':
   app.run(debug=True)

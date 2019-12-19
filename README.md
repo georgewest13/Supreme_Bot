@@ -9,7 +9,7 @@
 
 
 ### Functionality
- + Currently configured for supreme
+ + Currently configured for Supreme
  + Automates adding items from the shop to cart and filling out payment info
  + Items can be selected from the dropdown menu
  + Requires human intervention to complete CAPTCHA
@@ -21,6 +21,7 @@
  + As of now, the first item of the item type (ie bags, hats, shirts) is
   selected to be added to the cart. 
 
-### BUGS
- + Adding to cart functionality is broken... major issue
+### Future
+ + Select actual items to be purchased
+ + Add constraints to only look for 'new' items
 

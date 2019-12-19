@@ -13,6 +13,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 
 shop_url     = "https://www.supremenewyork.com/shop"
@@ -61,6 +62,11 @@ def add_with_style(styles):
         style.click()
         if add_item():
             return True
+        else:
+            ac = ActionChains(driver)
+            ac.move_to_element(style).move_by_offset(0, 10).click().perform()
+            if add_item():
+                return True
 
     return False
 
@@ -72,11 +78,10 @@ def add_with_size(select, sizes):
 
     return False
 
-# TODO: Won't actually add to cart ... ever
 def add_item():
     try:
-        add_button = driver.find_element_by_name("commit")
-        add_button.click()
+        add_buttons = driver.find_elements_by_name("commit")
+        add_buttons[1].click() 
         return True
     except: 
         print("sold out")
@@ -144,7 +149,7 @@ def fill_billing():
     select.select_by_value(bill_info.state)
 
 def fill_cc():
-    cc_num = driver.find_element_by_id("nnaerb")
+    cc_num = driver.find_element_by_id("rnsnckrn")
     cc_num.send_keys(cc_info.num)
     cc_mon = driver.find_element_by_id("credit_card_month")
     cc_yr = driver.find_element_by_id("credit_card_year")
